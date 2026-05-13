@@ -46,6 +46,5 @@ I am looking for opportunities as a **Full Stack Developer Intern / Junior Devel
 - LinkedIn: https://www.linkedin.com/in/amrin-shah/
 - GitHub: https://github.com/AmrinShah
 - Email: amrinshah51@gmail.com
-- LinkedIn: www.linkedin.com/in/amrin-shah  
+
 - GitHub: github.com/AmrinShah
-- Email: your-email-here
